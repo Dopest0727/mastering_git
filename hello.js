@@ -1,5 +1,15 @@
 console.log('Hello, Git!')
-console.log('Mammaknullare')
-console.log('Mammaknullare')
+console.log('Hello Github')
 
-console.log('Testar ännu en gång')
+
+// SAVED THE DAY
+
+// In process of implementing an important feature
+/*
+
+    CODE
+    CODE
+    CODE
+
+ */
+
